@@ -1,5 +1,5 @@
 //
-//  main.m
+//  main
 //  PopSettings
 //
 //  Created by Alfie on 16/7/30.
