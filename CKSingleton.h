@@ -1,4 +1,4 @@
-//test
+//test1
 #define SYNTHESIZE_SINGLETON_FOR_CLASS(classname) \
 \
 static classname *shared##classname = nil; \
